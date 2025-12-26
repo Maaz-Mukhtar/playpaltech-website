@@ -11,20 +11,20 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'PlayLabs | Premium Web & App Development',
+  title: 'PlayPal Tech | Premium Web & App Development',
   description: 'We build stunning websites, mobile apps, and SaaS products that help ambitious startups and enterprises succeed.',
-  keywords: ['web development', 'mobile apps', 'SaaS', 'software development', 'PlayLabs'],
-  authors: [{ name: 'PlayLabs' }],
+  keywords: ['web development', 'mobile apps', 'SaaS', 'software development', 'PlayPal Tech'],
+  authors: [{ name: 'PlayPal Tech' }],
   openGraph: {
-    title: 'PlayLabs | Premium Web & App Development',
+    title: 'PlayPal Tech | Premium Web & App Development',
     description: 'We build stunning websites, mobile apps, and SaaS products that help ambitious startups and enterprises succeed.',
     type: 'website',
     locale: 'en_US',
-    siteName: 'PlayLabs',
+    siteName: 'PlayPal Tech',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'PlayLabs | Premium Web & App Development',
+    title: 'PlayPal Tech | Premium Web & App Development',
     description: 'We build stunning websites, mobile apps, and SaaS products.',
   },
 }

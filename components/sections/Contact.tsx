@@ -35,8 +35,8 @@ const contactInfo = [
       </svg>
     ),
     label: 'Email',
-    value: 'hello@playlabs.dev',
-    href: 'mailto:hello@playlabs.dev',
+    value: 'hello@playpaltech.dev',
+    href: 'mailto:hello@playpaltech.dev',
   },
   {
     icon: (

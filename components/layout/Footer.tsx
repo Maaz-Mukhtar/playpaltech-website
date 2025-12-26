@@ -44,7 +44,7 @@ export function Footer() {
                   <span className="text-white font-bold text-lg">P</span>
                 </div>
                 <span className="text-xl font-bold text-foreground">
-                  Play<GradientText>Labs</GradientText>
+                  PlayPal <GradientText>Tech</GradientText>
                 </span>
               </Link>
               <p className="text-foreground-muted text-sm leading-relaxed">
@@ -116,7 +116,7 @@ export function Footer() {
         {/* Bottom bar */}
         <div className="mt-16 pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-foreground-subtle text-sm">
-            © {currentYear} PlayLabs. All rights reserved.
+            © {currentYear} PlayPal Tech. All rights reserved.
           </p>
           <div className="flex items-center gap-6">
             <Link href="#" className="text-foreground-subtle hover:text-foreground-muted text-sm transition-colors">

@@ -45,7 +45,7 @@ export function Header() {
             </div>
           </div>
           <span className="text-xl font-bold text-foreground">
-            Play<GradientText>Labs</GradientText>
+            PlayPal <GradientText>Tech</GradientText>
           </span>
         </Link>
 
